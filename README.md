@@ -8,8 +8,6 @@ Cox Automotive Challenge
 
 
 
-Note: if you come across this compiler error
-unable to remove directory obj debug netcoreapp2.1 razor
-Just empty the file and compile again.
+
 
 
