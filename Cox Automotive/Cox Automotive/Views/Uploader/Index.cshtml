@@ -1,0 +1,46 @@
+﻿
+@section scripts {
+    <environment include="Development">
+        <script src="~/js/display.js"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="~/js/display.min.js" asp-append-version="true"></script>
+    </environment>
+
+}
+<h2>Upload File</h2>
+
+<form id="form1" runat="server">
+    <div class="form-group">
+        <row>
+            <input type="file" id="fileUpload" class="btn btn-default" />
+        </row>
+    </div>
+    <div class="form-group">
+        <row>
+            <input type="button" value="Upload File" id="btnUploadFile" class="btn btn-default" />
+        </row>
+    </div>
+</form>
+
+<div id="givenTable">
+    <div class="form-group">
+        <div class="panel panel-default">
+            <div class="table-responsive">
+                <table id="displayGrid" style="overflow-x:auto;" class="table table-striped" width="100%" data-cache-name="searchgrid">
+                    <thead>
+                        <tr>
+                            <th>Dealnumber</th>
+                            <th>CustomerName</th>
+                            <th>DealershipName</th>
+                            <th>Vehicle</th>
+                            <th>Price</th>
+                            <th>Date</th>
+
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

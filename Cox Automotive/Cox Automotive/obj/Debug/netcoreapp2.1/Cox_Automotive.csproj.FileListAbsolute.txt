@@ -1,0 +1,4 @@
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox_Automotive.csprojAssemblyReference.cache
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox_Automotive.csproj.CoreCompileInputs.cache
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox_Automotive.AssemblyInfoInputs.cache
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox_Automotive.AssemblyInfo.cs

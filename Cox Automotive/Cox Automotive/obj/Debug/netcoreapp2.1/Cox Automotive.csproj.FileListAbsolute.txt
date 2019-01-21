@@ -1,0 +1,34 @@
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\bin\Debug\netcoreapp2.1\Cox Automotive.deps.json
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\bin\Debug\netcoreapp2.1\Cox Automotive.runtimeconfig.json
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\bin\Debug\netcoreapp2.1\Cox Automotive.runtimeconfig.dev.json
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\bin\Debug\netcoreapp2.1\Cox Automotive.dll
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\bin\Debug\netcoreapp2.1\Cox Automotive.pdb
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\bin\Debug\netcoreapp2.1\Cox Automotive.Views.dll
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\bin\Debug\netcoreapp2.1\Cox Automotive.Views.pdb
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox Automotive.csprojAssemblyReference.cache
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox Automotive.csproj.CoreCompileInputs.cache
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox Automotive.RazorAssemblyInfo.cache
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox Automotive.RazorAssemblyInfo.cs
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox Automotive.AssemblyInfoInputs.cache
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox Automotive.AssemblyInfo.cs
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox Automotive.TagHelpers.input.cache
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox Automotive.TagHelpers.output.cache
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox Automotive.RazorCoreGenerate.cache
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Razor\Views\MostSold\MostSoldCar.g.cshtml.cs
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Razor\Views\Uploader\Index.g.cshtml.cs
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox Automotive.RazorTargetAssemblyInfo.cache
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox Automotive.RazorTargetAssemblyInfo.cs
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox Automotive.Views.pdb
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox Automotive.dll
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox Automotive.pdb
+C:\Users\rohit\source\repos\Cox Automotive\Cox Automotive\obj\Debug\netcoreapp2.1\Cox Automotive.csproj.CopyComplete

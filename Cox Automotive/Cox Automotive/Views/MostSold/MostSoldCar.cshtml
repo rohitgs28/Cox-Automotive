@@ -1,0 +1,35 @@
+﻿@model ListOfRecords
+@{
+    ViewData["Title"] = "MostSold";
+}
+
+<h2>MostSold</h2>
+
+
+
+<p>Most Sold vehicle so far is @Model.listofRecords[0].Vehicle</p>
+<table class="table table-bordered table-responsive table-hover">
+    <thead>
+        <tr>
+            <th>DealNumber </th>
+            <th>CustomerName </th>
+            <th>DealerShipName </th>
+            <th>Vehicle </th>
+            <th>Price </th>
+            <th>Date </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.listofRecords)
+        {
+        <tr>
+            <td>@item.DealNumber</td>
+            <td>@item.CustomerName</td>
+            <td>@item.DealershipName</td>
+            <td>@item.Vehicle</td>
+            <td>@item.Price</td>
+            <td>@item.Date</td>
+        </tr>
+        }
+    </tbody>
+</table>

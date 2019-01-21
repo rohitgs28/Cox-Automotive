@@ -1,0 +1,11 @@
+C:\Users\rohit\source\repos\Cox Automotive\Cox_Automotive_Test\bin\Debug\netcoreapp2.1\Cox_Automotive_Test.deps.json
+C:\Users\rohit\source\repos\Cox Automotive\Cox_Automotive_Test\bin\Debug\netcoreapp2.1\Cox_Automotive_Test.runtimeconfig.json
+C:\Users\rohit\source\repos\Cox Automotive\Cox_Automotive_Test\bin\Debug\netcoreapp2.1\Cox_Automotive_Test.runtimeconfig.dev.json
+C:\Users\rohit\source\repos\Cox Automotive\Cox_Automotive_Test\bin\Debug\netcoreapp2.1\Cox_Automotive_Test.dll
+C:\Users\rohit\source\repos\Cox Automotive\Cox_Automotive_Test\bin\Debug\netcoreapp2.1\Cox_Automotive_Test.pdb
+C:\Users\rohit\source\repos\Cox Automotive\Cox_Automotive_Test\obj\Debug\netcoreapp2.1\Cox_Automotive_Test.csprojAssemblyReference.cache
+C:\Users\rohit\source\repos\Cox Automotive\Cox_Automotive_Test\obj\Debug\netcoreapp2.1\Cox_Automotive_Test.csproj.CoreCompileInputs.cache
+C:\Users\rohit\source\repos\Cox Automotive\Cox_Automotive_Test\obj\Debug\netcoreapp2.1\Cox_Automotive_Test.AssemblyInfoInputs.cache
+C:\Users\rohit\source\repos\Cox Automotive\Cox_Automotive_Test\obj\Debug\netcoreapp2.1\Cox_Automotive_Test.AssemblyInfo.cs
+C:\Users\rohit\source\repos\Cox Automotive\Cox_Automotive_Test\obj\Debug\netcoreapp2.1\Cox_Automotive_Test.dll
+C:\Users\rohit\source\repos\Cox Automotive\Cox_Automotive_Test\obj\Debug\netcoreapp2.1\Cox_Automotive_Test.pdb

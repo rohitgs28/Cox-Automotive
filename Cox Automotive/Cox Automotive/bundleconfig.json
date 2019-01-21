@@ -1,0 +1,50 @@
+[
+  {
+    "outputFileName": "wwwroot/js/display.min.js",
+    "inputFiles": [
+      "wwwroot/js/display.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/jquery/dist/jquery.dataTables.min.js",
+    "inputFiles": [
+      "wwwroot/lib/jquery/dist/jquery.dataTables.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/jquery/dist/jquery-3.2.1.min.js",
+    "inputFiles": [
+      "wwwroot/lib/jquery/dist/jquery-3.2.1.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/bootstrap/dist/js/dataTables.bootstrap.min.js",
+    "inputFiles": [
+      "wwwroot/lib/bootstrap/dist/js/dataTables.bootstrap.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/jquery/dist/jquery.dataTables.plugin.pagination-input.min.js",
+    "inputFiles": [
+      "wwwroot/lib/jquery/dist/jquery.dataTables.plugin.pagination-input.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/jquery/dist/modernizr-2.8.3.min.js",
+    "inputFiles": [
+      "wwwroot/lib/jquery/dist/modernizr-2.8.3.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/lib/jquery/dist/moment.min.js",
+    "inputFiles": [
+      "wwwroot/lib/jquery/dist/moment.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/css/site.min.css",
+    "inputFiles": [
+      "wwwroot/css/site.css"
+    ]
+  }
+]
